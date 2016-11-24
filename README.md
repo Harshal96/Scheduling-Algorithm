@@ -6,3 +6,5 @@ PreemtiveRoundRobinPriority is a modified algorithm based on the IEEE Paper publ
 DynamicallyChangingTimeQuantum is a modified algorithm based on an IEEE Paper.
 
 PreemtiveSJF is the pre-emtive version of Shortest Job First.
+
+OTHDSA is an Optimised Two Head Disk Scheduling Algorithm basedin an IEEE Paper.
